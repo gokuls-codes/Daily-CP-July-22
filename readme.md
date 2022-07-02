@@ -11,3 +11,9 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 
 #### July 2, 2022
 * [Maximum Area of a Piece of Cake after Horizontal and Vertical Cuts] (https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) (python)
+* Frog Wants Your Help (Question from a private contest) (python)
+* Hexagon of Hexagons (Question from a private contest) (python)
+* Math, PE and Programming (Question from a private contest) (python) 
+* Lucky Numbers (Question from a private contest) (python)
+* MinSwaps (Question from a private contest) (python)
+* Party (Question from a private contest) (python)
