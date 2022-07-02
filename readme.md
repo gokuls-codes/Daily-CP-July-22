@@ -8,3 +8,6 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Rotate List](https://leetcode.com/problems/rotate-list/) (Python)
 * [Sort Colors](https://leetcode.com/problems/sort-colors/) (Python)
 * [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) (MySQL)
+
+#### July 2, 2022
+* [Maximum Area of a Piece of Cake after Horizontal and Vertical Cuts] (https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) (python)
