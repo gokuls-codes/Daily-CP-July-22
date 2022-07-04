@@ -27,4 +27,5 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (python)
 * [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) (python)
 * [Rotate Array](https://leetcode.com/problems/rotate-array/) (python)
-* [Find Duplicates in an array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/)
+* [Find Duplicates in an array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/) (python)
+* [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1/) (python)
