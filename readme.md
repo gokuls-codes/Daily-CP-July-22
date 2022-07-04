@@ -21,3 +21,10 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 #### July 3, 2022
 * [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) (python)
 * [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (python)
+
+#### July 4, 2022
+* [Candy](https://leetcode.com/problems/candy/submissions/) (python)
+* [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (python)
+* [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) (python)
+* [Rotate Array](https://leetcode.com/problems/rotate-array/) (python)
+* [Find Duplicates in an array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/)
