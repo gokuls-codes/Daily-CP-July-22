@@ -32,3 +32,7 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 
 #### July 5, 2022
 * [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
+* [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+* [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
+* [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
+* [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
