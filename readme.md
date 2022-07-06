@@ -36,3 +36,10 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) (python)
 * [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) (python)
 * [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change2448/1) (python)
+
+#### July 6, 2022
+* [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+* [Diagonal Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)
+* [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1/)
+* [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
+* [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1/)
