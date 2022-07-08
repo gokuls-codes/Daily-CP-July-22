@@ -49,6 +49,6 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/) (python)
 
 #### July 8, 2022
-* [Finding all pairs with given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1/)
-* [Maximum Number of 1s row](https://practice.geeksforgeeks.org/problems/maximum-no-of-1s-row3027/1/)
-* [Convert a sentence into its equivalent mobile numeric keypad sequence](https://practice.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence0547/1/)
+* [Finding all pairs with given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1/) (python)
+* [Maximum Number of 1s row](https://practice.geeksforgeeks.org/problems/maximum-no-of-1s-row3027/1/) (python)
+* [Convert a sentence into its equivalent mobile numeric keypad sequence](https://practice.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence0547/1/) (python)
