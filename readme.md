@@ -52,3 +52,6 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Finding all pairs with given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1/) (python)
 * [Maximum Number of 1s row](https://practice.geeksforgeeks.org/problems/maximum-no-of-1s-row3027/1/) (python)
 * [Convert a sentence into its equivalent mobile numeric keypad sequence](https://practice.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence0547/1/) (python)
+
+#### July 9, 2022
+* [Polynomial Addition](https://practice.geeksforgeeks.org/problems/polynomial-addition/1)
