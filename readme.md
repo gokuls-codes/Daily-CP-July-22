@@ -63,3 +63,6 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 
 #### July 12, 2022
 * [Sum of 2050](https://codeforces.com/problemset/problem/1517/A) (python)
+* [YES or YES?](https://codeforces.com/contest/1703/problem/A) (python)
+* [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) (python)
+* [Cypher](https://codeforces.com/contest/1703/problem/C) (python)
