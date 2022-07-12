@@ -60,3 +60,6 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) (python)
 * [Reaching the heights](https://practice.geeksforgeeks.org/problems/reaching-the-heights1921/1) (python)
 * [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) (python)
+
+#### July 12, 2022
+* [Sum of 2050](https://codeforces.com/problemset/problem/1517/A) (python)
