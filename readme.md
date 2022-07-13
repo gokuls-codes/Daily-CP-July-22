@@ -66,3 +66,10 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [YES or YES?](https://codeforces.com/contest/1703/problem/A) (python)
 * [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) (python)
 * [Cypher](https://codeforces.com/contest/1703/problem/C) (python)
+
+#### July 13, 2022
+* [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (python)
+* [Search in a rotated array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) (python)
+* [Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1) (python)
+* [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) (python)
+* [Minimum Indexed Character](https://practice.geeksforgeeks.org/problems/minimum-indexed-character-1587115620/1) (python)
