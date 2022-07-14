@@ -73,3 +73,10 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1) (python)
 * [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) (python)
 * [Minimum Indexed Character](https://practice.geeksforgeeks.org/problems/minimum-indexed-character-1587115620/1) (python)
+
+#### July 14, 2022
+* [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (python)
+* [BST to greater Sum tree](https://practice.geeksforgeeks.org/problems/bst-to-greater-sum-tree/1) (python)
+* [Longest Common Prefix in an Array](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1) (python)
+* [Swapping pairs make sum equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1) (python)
+* [Count Distinct elements in every window](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) (python)
