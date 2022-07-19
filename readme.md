@@ -84,3 +84,14 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 #### July 16, 2022
 * [Out of boundary paths](https://leetcode.com/problems/out-of-boundary-paths/) (python)
 * [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/) (python)
+
+#### July 18, 2022
+* [Ceil in BST](https://practice.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) (python)
+* [Number of submatrices that sum to target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) (python)
+
+#### July 19, 2022
+* [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) (python)
+* [Count Smaller Elements](https://practice.geeksforgeeks.org/problems/count-smaller-elements2214/1) (python)
+* [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) (python)
+* [Find Pair with Sum in SOrted and Rotated Array](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/) (python)
+* [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) (python)
