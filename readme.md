@@ -95,3 +95,10 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) (python)
 * [Find Pair with Sum in SOrted and Rotated Array](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/) (python)
 * [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) (python)
+
+#### July 20, 2022
+* [Number of matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) (python)
+* Number of times a sorted list is rotated in O(log n) time  (python)
+* [Form a palindrome](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1) (python)
+* [Count triplets with sum smaller than a given value](https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/) (python)
+* [Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) (python)
