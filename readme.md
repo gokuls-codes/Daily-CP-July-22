@@ -102,3 +102,10 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Form a palindrome](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1) (python)
 * [Count triplets with sum smaller than a given value](https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/) (python)
 * [Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) (python)
+
+#### July 21, 2022
+* [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) (python)
+* [Get Min at pop](https://practice.geeksforgeeks.org/problems/get-min-at-pop/1) (python)
+* [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (python)
+* [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (python)
+* [Flatten BST to sorted list](https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/) (python)
