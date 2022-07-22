@@ -109,3 +109,8 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (python)
 * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (python)
 * [Flatten BST to sorted list](https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/) (python)
+
+#### July 22, 2022
+* [Partition List](https://leetcode.com/problems/partition-list/submissions/) (python)
+* [Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) (python)
+* [Maximum Difference of zeroes and ones in binary string](https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1) (python)
