@@ -114,3 +114,9 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Partition List](https://leetcode.com/problems/partition-list/submissions/) (python)
 * [Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) (python)
 * [Maximum Difference of zeroes and ones in binary string](https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1) (python)
+
+#### July 23, 2022
+* [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) (python)
+* [Levels of Game](https://practice.geeksforgeeks.org/problems/levels-of-game/1) (python)
+* [Best Poker Hand](https://leetcode.com/contest/biweekly-contest-83/problems/best-poker-hand/) (python)
+* [Number of Zero-filled subarrays](https://leetcode.com/contest/biweekly-contest-83/problems/number-of-zero-filled-subarrays/) (python)
