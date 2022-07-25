@@ -120,3 +120,10 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Levels of Game](https://practice.geeksforgeeks.org/problems/levels-of-game/1) (python)
 * [Best Poker Hand](https://leetcode.com/contest/biweekly-contest-83/problems/best-poker-hand/) (python)
 * [Number of Zero-filled subarrays](https://leetcode.com/contest/biweekly-contest-83/problems/number-of-zero-filled-subarrays/) (python)
+
+#### July 24, 2022
+* [Maximum Sum leaf to root path](https://practice.geeksforgeeks.org/problems/maximum-sum-leaf-to-root-path/1) (python)
+
+#### July 25, 2022
+* [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (python)
+* [Distance from the source (Bellman-Ford Algorithm)](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) (python)
