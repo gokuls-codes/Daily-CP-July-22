@@ -127,3 +127,10 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 #### July 25, 2022
 * [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (python)
 * [Distance from the source (Bellman-Ford Algorithm)](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) (python)
+
+#### July 26, 2022
+* [Lowest common ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (python) 
+* [Length of longest palindrome in linked list](https://practice.geeksforgeeks.org/problems/length-of-longest-palindrome-in-linked-list/1) (python) 
+* [Best Time to Buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (python) 
+* [Diameter of a Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1) (python) 
+* [Smallest Window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) (python) 
