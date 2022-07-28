@@ -134,3 +134,14 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Best Time to Buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (python) 
 * [Diameter of a Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1) (python) 
 * [Smallest Window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) (python) 
+
+#### July 27, 2022
+* [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (python) 
+* [Some problems from codechef starters 49](https://www.codechef.com/START49D) (python) 
+
+#### July 28, 2022
+* [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (python) 
+* [Geek and Knots](https://practice.geeksforgeeks.org/problems/little-murph-and-knots0402/1) (python) 
+* [Reverse a doubly linked list](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) (python) 
+* [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1) (python) 
+* [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) (python) 
