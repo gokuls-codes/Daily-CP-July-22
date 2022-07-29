@@ -145,3 +145,8 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Reverse a doubly linked list](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) (python) 
 * [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1) (python) 
 * [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) (python) 
+
+#### July 29, 2022
+* [Find and replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) (python) 
+* [M Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) (python) 
+* [Coin Change](https://leetcode.com/problems/coin-change/) (python) 
