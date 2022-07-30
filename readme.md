@@ -150,3 +150,7 @@ My solutions for CP problems I solve during the month of July 2022 (atleast weak
 * [Find and replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) (python) 
 * [M Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) (python) 
 * [Coin Change](https://leetcode.com/problems/coin-change/) (python) 
+
+#### July 30, 2022
+* [Repeated Character](https://practice.geeksforgeeks.org/problems/repeated-character2058/1) (python) 
+* [Word Subsets](https://leetcode.com/problems/word-subsets/) (python) 
